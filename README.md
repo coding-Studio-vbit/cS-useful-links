@@ -1,7 +1,7 @@
 # Welcome to the *Computer Science Resource Cheatsheet*
 
 This repo has been inspired by the suggestions of Akshay a.k.a[ _axai_](https://github.com/akshayrajp " _axai_")  
-
+[![time tracker](https://wakatime.com/badge/github/sanath1599/cS-useful-links.svg)](https://wakatime.com/badge/github/sanath1599/cS-useful-links) spent so far accumilating these resources for you :heart: 
 ------------
 
 Feel free to contribute to this repo if you come across something cool that is not already mentioned here
@@ -19,12 +19,27 @@ This section will contain resources that you can use beyond your course to becom
 | [University Courses](http://www.infocobuild.com/education/audio-video-courses/ "University Courses")  | Sources for open courses from Yale, Stanford, UC Berkeley and more  |
 | [AlgoWiki](https://github.com/vicky002/AlgoWiki "AlgoWiki")  | Repository which contains links and resources on different topics of Computer Science.  |
 | [OSSU](https://github.com/ossu/computer-science "OSSU")  | 🎓 Path to a free self-taught education in Computer Science! |
-
+| [fast.ai](https://www.fast.ai/ "fast.ai")  | Deep Learning MOOC |
 
 
 # Working Resources
 
 This section will contain resources that will help you with your projects, while most of them are free, some of them might need a premium plan(or freemium)
+
+### Generic Tools
+
+|  Tool/Website | Purpose  |
+| ------------ | ------------ |
+| [TOPOL.io](https://topol.io/ "TOPOL.io")  |  Drag and Drop Email builder with responsive HTML output  |
+| [Stripo](https://stripo.email/ "Stripo")  |  Create professional pure HTML advanced email templates without any HTML skills |
+|  [Keppler](https://brunosimon.github.io/keppler/ "Keppler") | Real-time code sharing for your lectures and presentations |
+|[Editor.md](https://pandao.github.io/editor.md/index.html "Editor.md")   | Open source online Markdown editor  |
+| [Quillbot](https://quillbot.com/ "Quillbot")  | AI Paraphrasing tool to reword your content  |
+| [Terminus](https://eugeny.github.io/terminus/ "Terminus") | Simple but beautiful teminal application with native SSH support |
+|[Goorm IDE](https://ide.goorm.io/ "Goorm IDE" ) | goormIDE is a powerful cloud IDE service to maximize productivity for developers and teams. |
+|[Swagger](https://swagger.io/ "Swagger Tools") | Test and Document Your APIs With Ease |
+
+
 
 ### IDE Plugins
 
@@ -101,3 +116,7 @@ This section will contain resources that will help you with your projects, while
 - [Introduction to Computation and Programming Using Python](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-second-edition): Supplementing textbook for MIT's 6.0001 Introduction to Computer Science course which is open source. This is book teaches Python programming alongside fundamental computer science theories
 
 - [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/html/): A (Free!) book that compiles programming knowledge and principles from the Original Creators of Unix and other prominent people that have worked on Unix, Linux, C, and more. If you want many, many years of programming wisdom concentrated into one book, this is a good one to pick.
+
+- [Mathematics for Machine Learning](https://mml-book.github.io/): A free book that teaches basic and advanced mathematical concepts required to write Machine Learning Algorithms.
+
+- [Deep Learning](https://www.deeplearningbook.org/): A nice resource for people entering the field of ML and Deep Learning in particular. ALso has some ML Math.
